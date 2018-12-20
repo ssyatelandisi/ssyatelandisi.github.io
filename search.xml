@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>关于Bootstrap的footer的固定</title>
+      <link href="/2018/1218/cjpumpend0007i0ekg91vo9io/"/>
+      <url>/2018/1218/cjpumpend0007i0ekg91vo9io/</url>
+      
+        <content type="html"><![CDATA[<!-- build time:Wed Dec 19 2018 11:39:58 GMT+0800 (GMT+08:00) --><p>当页面内容不够的时候，footer要保证在浏览器底部，内容足够铺满屏幕时，footer在内容下方。通常的做法是给html、body添加<code>height:100%</code>或<code>min-height:100%</code>以及javascript来控制高度。</p><p>在bootstrap里，可以借助flex和calc函数来更方便的布置footer。只要给最外围盒子添加<code>min-height: calc(100vh)</code>的样式。</p><pre><code class="html">&lt;body&gt;    &lt;div class=&quot;d-flex flex-column&quot; style=&quot;min-height: calc(100vh);&quot;&gt;        &lt;header&gt;头部&lt;/header&gt;        &lt;div class=&quot;flex-grow-1&quot;&gt;内容&lt;/div&gt;        &lt;footer&gt;底部&lt;/footer&gt;    &lt;/div&gt;&lt;/body&gt;</code></pre><!-- rebuild by neat -->]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> bootstrap footer </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>工具推荐</title>
+      <link href="/2018/1107/cjpumpenf0009i0ekblgo53ym/"/>
+      <url>/2018/1107/cjpumpenf0009i0ekblgo53ym/</url>
+      
+        <content type="html"><![CDATA[<!-- build time:Wed Dec 19 2018 11:39:58 GMT+0800 (GMT+08:00) --><h1 id="工具推荐"><a href="#工具推荐" class="headerlink" title="工具推荐"></a>工具推荐</h1><h2 id="内存清理工具——Mem-Reduct"><a href="#内存清理工具——Mem-Reduct" class="headerlink" title="内存清理工具——Mem Reduct"></a>内存清理工具——<a href="https://github.com/henrypp/memreduct" target="_blank" rel="noopener">Mem Reduct</a></h2><p><img src="https://camo.githubusercontent.com/70670eb541e95f0141a8580ad3eb3895228f353b/68747470733a2f2f7777772e68656e727970702e6f72672f696d616765732f6d656d7265647563742e706e673f636163686566697832" alt=""></p><hr><h2 id="输入法——Google-拼音"><a href="#输入法——Google-拼音" class="headerlink" title="输入法——Google 拼音"></a>输入法——<a href="https://www.baidu.com/s?&amp;wd=谷歌拼音" target="_blank" rel="noopener">Google 拼音</a></h2><p><img src="http://dynamic-image.yesky.com/640x267/uploadImages/2018/272/24/A358SL8JOYSF.jpg" alt=""></p><hr><h2 id="浏览器——Google-Chrome"><a href="#浏览器——Google-Chrome" class="headerlink" title="浏览器——Google Chrome"></a>浏览器——<a href="https://api.i-meto.com/chrome" target="_blank" rel="noopener">Google Chrome</a></h2><hr><h2 id="播放器——Potplayer"><a href="#播放器——Potplayer" class="headerlink" title="播放器——Potplayer"></a>播放器——<a href="http://potplayer.daum.net/?lang=zh_CN" target="_blank" rel="noopener">Potplayer</a></h2><p><img src="http://i1.tvpot.daumcdn.net/svc/image/U03/tvpot_admin/admin/20140314/20140314_152237_4742217.jpg" alt=""></p><hr><h2 id="安全防护工具——火绒"><a href="#安全防护工具——火绒" class="headerlink" title="安全防护工具——火绒"></a>安全防护工具——<a href="https://www.huorong.cn" target="_blank" rel="noopener">火绒</a></h2><p><img src="https://www.huorong.cn/assets/v5/images/personPage/navHead.png" alt=""></p><!-- rebuild by neat -->]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>AdGuard，远离广告、弹窗和挖矿！</title>
+      <link href="/2018/1106/cjpumpen10000i0ek5xs4rx5q/"/>
+      <url>/2018/1106/cjpumpen10000i0ek5xs4rx5q/</url>
+      
+        <content type="html"><![CDATA[<!-- build time:Wed Dec 19 2018 11:39:58 GMT+0800 (GMT+08:00) --><h1 id="AdGuard，远离广告、弹窗和挖矿！"><a href="#AdGuard，远离广告、弹窗和挖矿！" class="headerlink" title="AdGuard，远离广告、弹窗和挖矿！"></a>AdGuard，远离广告、弹窗和挖矿！</h1><h2 id="AdGuard简述"><a href="#AdGuard简述" class="headerlink" title="AdGuard简述"></a>AdGuard简述</h2><p>现在网上看个视频一般都会遇到视频正片开始前植入的广告，短则几秒，长则数分钟。还有有些铺天盖地的广告，很是令人忧心。更令人恶心的是现在有些网站为了提升收益，植入挖矿脚本，当你访问的时候就会利用你的电脑进行挖矿，有时会造成电脑严重卡顿。</p><p>而AdGuard可以让你远离上述烦恼。它是摆脱烦人广告，在线跟踪并使您的计算机原理恶意软件的最佳途径。其使您体验快速，安全，无广告的网络冲浪。可以说当前最强大好用的去广告软件了，不仅能去掉页面广告，还能阻止广告等弹窗，也可以阻挡挖矿行为。</p><p>AdGuard拥有Windows、Mac、Android、iOS以及浏览器拓展等诸多版本。本篇主要以Windows版为例予以介绍。</p><h2 id="AdGuard-for-Windows下载及安装"><a href="#AdGuard-for-Windows下载及安装" class="headerlink" title="AdGuard for Windows下载及安装"></a>AdGuard for Windows下载及安装</h2><p><em>AdGuard for Windows 不只是广告拦截程序，它还组合了可获取最佳网络体验所需功能的多用途工具。其可拦截广告和危险网站，加速网页载入，保护儿童的在线安全。</em>——AdGuard官网描述</p><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>可以去<a href="https://adguard.com" target="_blank" rel="noopener"><strong>AdGuard官网</strong></a>下载。官网默认下载的是一个在线安装包。也可以直接访问<strong><em><a href="https://static.adguard.com/windows/setup.exe" target="_blank" rel="noopener">https://static.adguard.com/windows/setup.exe</a></em></strong>获取离线安装包</p><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>点击安装包后出现如下界面，基本只要按<strong>绿色提示按钮</strong>点一遍就行了。</p><p><img src="img/Snipaste_2018-11-06_14-16-09.jpg" alt=""></p><p><img src="img/Snipaste_2018-11-06_14-16-36.jpg" alt=""></p><p><img src="img/Snipaste_2018-11-06_14-17-11.jpg" alt=""></p><p>当然在此步骤也可以点击<strong>跳过</strong></p><p>安装成功后会出现如下界面</p><p><img src="img/Snipaste_2018-11-06_14-19-27.jpg" alt=""></p><h2 id="AdGuard实用功能"><a href="#AdGuard实用功能" class="headerlink" title="AdGuard实用功能"></a>AdGuard实用功能</h2><h3 id="主界面介绍"><a href="#主界面介绍" class="headerlink" title="主界面介绍"></a>主界面介绍</h3><p><img src="img/Snipaste_2018-11-06_14-19-27.jpg" alt=""></p><p>主界面功能都如文字所诉，主要是开启广告拦截，拦截钓鱼网站，开启家长控制和拦截统计等。</p><h3 id="拦截测试"><a href="#拦截测试" class="headerlink" title="拦截测试"></a>拦截测试</h3><h4 id="广告拦截测试"><a href="#广告拦截测试" class="headerlink" title="广告拦截测试"></a>广告拦截测试</h4><p>开启前</p><p><img src="img/Snipaste_2018-11-06_15-15-49.jpg" alt=""></p><p>开启后</p><p><img src="img/Snipaste_2018-11-06_15-18-31.jpg" alt=""></p><p>可以清楚看到推广的广告没了，多出一个AdGuard的图片出来。</p><p>这个图标其实就是拓展里的AdGuard助手，点击可以进一些置。AdGuard助手的使用后面会讲解到。</p><p><img src="img/Snipaste_2018-11-06_15-23-20.jpg" alt=""></p><p>如果还有未拦截到的部分可以点击AdGuard助手，选择<strong>拦截此网站的广告</strong>，再去点未拦截的部分，在点击的广告部位会出现一个绿色框，并会弹出一个拦截元素大小选择器，根据需要拦截的部分层级调整下大小。可以先预览是否是要的效果后再点击<strong>拦截</strong>。</p><p><img src="img/Snipaste_2018-11-06_16-25-09.jpg" alt=""></p><h4 id="挖矿拦截测试"><a href="#挖矿拦截测试" class="headerlink" title="挖矿拦截测试"></a>挖矿拦截测试</h4><p><a href="https://www.landiannews.com" target="_blank" rel="noopener"><strong>蓝点网</strong></a>提供的<strong>挖矿脚本与反挖矿扩展程序测试页<em><a href="http://tools.ldstu.com/miner/index.html" target="_blank" rel="noopener">http://tools.ldstu.com/miner/index.html</a></em></strong>进行测试</p><p>开启前CPU利用率</p><p><img src="img/Snipaste_2018-11-06_15-40-14.jpg" alt=""></p><p>开启后CPU利用率</p><p><img src="img/Snipaste_2018-11-06_15-41-16.jpg" alt=""></p><p>可以看到开启后再访问挖矿测试网页有个AdGuard的提示，<em>“<strong>AdGuard has detected an attempt by this website to use your browser as a crypto-currency miner. It can create significant CPU load. Press “Cancel” to prevent it.”</strong></em>【<strong>AdGuard侦测到该网站尝试利用你的浏览器充当数字货币矿工，它可能造成明显的CPU利用负载。请按“取消”来阻止它挖矿</strong>】</p><p>注意是点击“<strong>取消</strong>”！点击“<strong>取消</strong>”！点击“<strong>取消</strong>”！</p><p>接着会弹出<em>“<strong>We are collecting all the information about the websites engaged in hidden crypto-mining. Press “OK” to send an automatic report about this website.</strong>”</em>【<strong>我们正在收集有暗含数字货币挖矿网页的所有信息，按“确认”发送以该网站自动报告给我们。</strong>】</p><p>这里随便点哪个都可以。</p><h4 id="视频广告拦截"><a href="#视频广告拦截" class="headerlink" title="视频广告拦截"></a>视频广告拦截</h4><p>通常情况下，视频网站的广告也都能被拦截。由于视频网站规则经常更新，有时拦截会造成视频正片不加载或其他效果。这时你可以点击AdGuard助手，先<strong>暂停过滤30秒</strong>。再刷新下网页使其不处于广告拦截状态。当然，可以<strong>报告此网站</strong>，按提示信息填写一份报告提交给开发人员，让他们尽早了解和做出该网站的拦截方法。</p><h2 id="AdGuard进阶功能"><a href="#AdGuard进阶功能" class="headerlink" title="AdGuard进阶功能"></a>AdGuard进阶功能</h2><p><img src="img/Snipaste_2018-11-06_16-42-11.jpg" alt=""></p><p>点击主界面的<strong>设置</strong>可以看到更多功能</p><p><img src="img/Snipaste_2018-11-06_16-47-35.jpg" alt=""></p><h3 id="隐形模式"><a href="#隐形模式" class="headerlink" title="隐形模式"></a>隐形模式</h3><p>隐形模式主要是用来防止跟踪和信息泄露。</p><p>开启后才可以设置需要隐匿项。本片着重讲<strong>隐藏您的 User-Agent</strong>和<strong>隐藏您的 IP 地址</strong></p><p><img src="img/Snipaste_2018-11-06_17-11-09.jpg" alt=""></p><h4 id="隐藏您的-User-Agent"><a href="#隐藏您的-User-Agent" class="headerlink" title="隐藏您的 User-Agent"></a>隐藏您的 User-Agent</h4><p>主用用于虚拟一个UA标识</p><p>很多网站的回复都或显示UA标识</p><p><img src="img/Snipaste_2018-11-06_17-23-47.jpg" alt=""></p><p><img src="img/Snipaste_2018-11-06_17-34-11.jpg" alt=""></p><p>当往<strong>隐藏您的 User-Agent</strong>中填入</p><pre><code class="javascript">Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1</code></pre><p>再用浏览器去访问<a href="https://m.baidu.com" target="_blank" rel="noopener">百度</a>时会发现，明明是电脑端的浏览器，打开百度却是移动端的样子去了</p><p><img src="img/Snipaste_2018-11-06_18-54-07.jpg" alt=""></p><p>利<a href="https://tool.lu/useragent/" target="_blank" rel="noopener">UA分析在线工具</a>查看会发现当前明明是WIndows10系统谷歌浏览器却显示成了iphone设备Safari浏览器了</p><p><img src="img/Snipaste_2018-11-06_18-55-40.jpg" alt=""></p><h4 id="隐藏您的-IP-地址"><a href="#隐藏您的-IP-地址" class="headerlink" title="隐藏您的 IP 地址"></a>隐藏您的 IP 地址</h4><p>设置一个IP地址后，对于获取本地IP地址的Javascript脚本获取都设置的IP，从而达到隐藏IP地址的目的。但不同于网络代理可以隐匿外网访问时的IP。</p><p>要注意点，当IP设置成了国外的或某些特殊IP后，会导致网易云音乐以及一些视频网站的视频不能播放，会提示你说在国家或地区因版权方要求，无法播放。</p><h3 id="拓展"><a href="#拓展" class="headerlink" title="拓展"></a>拓展</h3><p>在谷歌浏览器和火狐浏览器等支持拓展插件的浏览器上可以安装暴力猴或油猴拓展插件，然后添加脚本让浏览器功能更强大。但一般都无法顾及IE浏览器。如果用AdGuard的拓展功能添加脚本也可达到解决此遗憾。</p><p>以<strong><a href="https://greasyfork.org" target="_blank" rel="noopener">Greasy Fork</a></strong>上的一款<strong><em><a href="https://greasyfork.org/zh-CN/scripts/373983-%E4%BA%AC%E4%B8%9C%E6%99%92%E5%8D%95%E6%9F%A5%E7%9C%8B%E5%A4%A7%E5%9B%BE" target="_blank" rel="noopener">京东晒单查看大图</a></em></strong>的脚本为例</p><p><img src="img/Snipaste_2018-11-06_22-00-29.jpg" alt=""></p><p>点击<strong>添加拓展程序</strong></p><p><img src="img/Snipaste_2018-11-06_22-05-39.jpg" alt=""></p><p>粘贴Greasy Fork上的<strong><em>京东晒单查看大图</em></strong>脚本的的链接地址，再点击<strong>安装</strong></p><p><img src="img/Snipaste_2018-11-06_22-05-48.jpg" alt=""></p><p>等加载完后再点击<strong>安装</strong></p><p><img src="img/Snipaste_2018-11-06_22-05-54.jpg" alt=""></p><p>安装成功后点击<strong>关闭</strong>即可</p><p>此时包括IE在内的所有浏览器都能使用该脚本了</p><p><img src="img/Snipaste_2018-11-06_22-18-39.jpg" alt=""></p><h2 id="关于激活"><a href="#关于激活" class="headerlink" title="关于激活"></a>关于激活</h2><p>默认状况，AdGuard是试用是14天。考虑官网售价较高，可以去<strong><a href="https://www.lizhi.io" target="_blank" rel="noopener">数码荔枝</a></strong>购买。此外购买的授权码也可用于激活Android版。<a href="https://item.taobao.com/item.htm?id=535942712486" target="_blank" rel="noopener"><strong>AdGuard购买链接</strong></a>。</p><p><img src="img/Snipaste_2018-11-06_22-28-41.jpg" alt=""></p><p>点击<strong>许可</strong>输入<strong>授权码</strong>，激活后如下图。同时可以去创建一个AdGuard账号，将授权码同账号绑定下，方便以后重装需要查授权码。</p><p><img src="img/Snipaste_2018-11-06_22-29-33.jpg" alt=""></p><!-- rebuild by neat -->]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> AdGuard </tag>
+            
+            <tag> 去广告 </tag>
+            
+            <tag> 反挖矿 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>桌面变成了Desktop还原</title>
+      <link href="/2018/0616/cjpumpenl000fi0ekuua2cm7k/"/>
+      <url>/2018/0616/cjpumpenl000fi0ekuua2cm7k/</url>
+      
+        <content type="html"><![CDATA[<!-- build time:Wed Dec 19 2018 11:39:58 GMT+0800 (GMT+08:00) --><p>电脑<strong>桌面</strong>突然变成<strong>Desktop</strong>了，或者<strong>下载</strong>、<strong>视频</strong>等文件夹名称变英文了该如还原？</p><p><img src="img/Snipaste_2018-11-07_11-51-34.jpg" alt=""></p><p>网上说的做法基本都是添加回<strong>desktop.ini</strong>这个隐藏文件，或者直接改名称。有时根本无效，或者改回来了，路径那还是个英文的。</p><p>最好的方法是移动位置再恢复默认。</p><p><img src="img/Snipaste_2018-11-07_11-52-48.jpg" alt=""></p><p>先右键Desktop文件夹，选择<strong>属性</strong>，进入<strong>位置</strong>选项，点击<strong>移动(M)</strong>，先给Desktop换个位置</p><p><img src="img/Snipaste_2018-11-07_11-53-10.jpg" alt=""></p><p><img src="img/Snipaste_2018-11-07_11-53-48.jpg" alt=""></p><p>移动所有文件点<strong>是(Y)</strong></p><p><img src="img/Snipaste_2018-11-07_11-56-19.jpg" alt=""></p><p>然后再右键<strong>Desktop文件夹属性</strong>——<strong>位置</strong>，点<strong>还原默认值(R)</strong></p><p><img src="img/Snipaste_2018-11-07_11-56-58.jpg" alt=""></p><p>这时还原位置移动全部文件点<strong>否(N)</strong>，然后<strong>注销</strong>再<strong>登陆</strong>下用户，就会发现恢复了。最后再去手动复制之前<strong>Desktop文件夹</strong>里没移动到<strong>桌面</strong>的文件</p><p><img src="img/Snipaste_2018-11-07_11-59-00.jpg" alt=""></p><p>同理，<strong>视频</strong>、<strong>图片</strong>、<strong>文档</strong>、<strong>下载</strong>、<strong>音乐</strong>变成英文还原也是这种方法。</p><!-- rebuild by neat -->]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Windows10系统找回中文输入法中美式键</title>
+      <link href="/2018/0615/cjpumpenb0005i0ekoz4jy7q9/"/>
+      <url>/2018/0615/cjpumpenb0005i0ekoz4jy7q9/</url>
+      
+        <content type="html"><![CDATA[<!-- build time:Wed Dec 19 2018 11:39:58 GMT+0800 (GMT+08:00) --><h1 id="Windows10系统添加回中文输入法中美式键盘"><a href="#Windows10系统添加回中文输入法中美式键盘" class="headerlink" title="Windows10系统添加回中文输入法中美式键盘"></a>Windows10系统添加回中文输入法中美式键盘</h1><p>微软从Windows8开始就默认删除了中文输入法中的美式键盘。如需添加回来可以通过修改注册表实现。</p><p>该方法同样适用于WIndows8、WIndows8.1系统。</p><p>新建一个<strong>文本文档.txt</strong>文件，输入以下内容</p><pre><code class="c++">Windows Registry Editor Version 5.00[HKEY_CURRENT_USER\Keyboard Layout][HKEY_CURRENT_USER\Keyboard Layout\Preload]&quot;1&quot;=&quot;00000804&quot;[HKEY_CURRENT_USER\Keyboard Layout\Substitutes]&quot;00000804&quot;=&quot;00000409&quot;[HKEY_CURRENT_USER\Keyboard Layout\Toggle]</code></pre><p>然后改<strong>文本文档.txt</strong>的后最<strong>txt</strong>为<strong>reg</strong>。双击<strong>文本文档.reg</strong>把注册表添加到系统中，然后注销下用户再登陆就能像WindowsXP、Windows7那样按<strong>Ctrl+Shift</strong>切换输入法了。</p><p>附：<strong>文本文档</strong>可以是其他名字只要后缀最后要改成<strong>reg</strong>即可</p><!-- rebuild by neat -->]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Windows </tag>
+            
+            <tag> 输入法 </tag>
+            
+            <tag> 美式键盘 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>日本語テスト</title>
+      <link href="/2018/0601/cjpumpeni000ci0ekqmrsuqwu/"/>
+      <url>/2018/0601/cjpumpeni000ci0ekqmrsuqwu/</url>
+      
+        <content type="html"><![CDATA[<!-- build time:Wed Dec 19 2018 11:39:58 GMT+0800 (GMT+08:00) --><h1 id="夢をかなえてドラえもん"><a href="#夢をかなえてドラえもん" class="headerlink" title="夢をかなえてドラえもん"></a>夢をかなえてドラえもん</h1><a id="more"></a><p>心の中　いつもいつも　えがいてる(えがいてる)<br>夢をのせた自分だけの　世界地図(タケコプタ～)</p><p>空を飛んで　時間を越えて　遠い国でも<br>ドアをあけてほら　行きたいよ今すぐ(どこでもドア～)</p><p>大人になったら　忘れちゃうのかな？<br>そんな時には　思い出してみよう</p><p>Shalalalala　僕の心に<br>いつまでも　かがやく夢<br>ドラえもん　そのポケットで　かなえさせてね</p><p>Shalalalala　歌をうたおう<br>みんなでさあ　手をつないで<br>ドラえもん　世界中に　夢を　そうあふれさせて</p><p>やりたいこと　行きたい場所　見つけたら(みつけたら)<br>迷わないで　靴を履いて　出かけよう(タイムマシン～)</p><p>大丈夫さ　ひとりじゃない　僕がいるから<br>キラキラ輝く　宝物探そうよ(四次元ポケット～)</p><p>道に迷っても　泣かないでいいよ<br>秘密の道具で　助けてあげるよ</p><p>Shalalalala　口笛吹いて<br>高らかに　歩き出そう<br>ドラえもん　あの街まで　届けばいいね</p><p>Shalalalala　僕らの未来<br>夢がいっぱい　あふれてるよ<br>ドラえもん　君がいれば　みんなが　笑顔になる</p><p>大人になっても　きっと忘れない<br>大切な思い　いつまでもずっと</p><p>Shalalalala　僕の心に<br>いつまでも　かがやく夢<br>ドラえもん　そのポケットで　かなえさせてね</p><p>Shalalalala　歌をうたおう<br>みんなでさあ手をつないで<br>ドラえもん　世界中に　夢を　そうあふれさせて</p><!-- rebuild by neat -->]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日语 </tag>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>已经发布的内容</title>
+      <link href="/2018/0531/cjpumpenk000di0ekwhudp3kk/"/>
+      <url>/2018/0531/cjpumpenk000di0ekwhudp3kk/</url>
+      
+        <content type="html"><![CDATA[<!-- build time:Wed Dec 19 2018 11:39:58 GMT+0800 (GMT+08:00) --><h1 id="🎐ssyatelandisi的主页项目"><a href="#🎐ssyatelandisi的主页项目" class="headerlink" title="🎐ssyatelandisi的主页项目"></a>🎐<a href="https://github.com/ssyatelandisi" target="_blank" rel="noopener">ssyatelandisi</a>的主页项目</h1><h1 id="测试项目"><a href="#测试项目" class="headerlink" title="测试项目"></a>测试项目</h1><ul><li><h2 id="英语项目"><a href="#英语项目" class="headerlink" title="英语项目"></a><a href="https://ssyatelandisi.github.io/english" target="_blank" rel="noopener">英语项目</a></h2></li><li><h2 id="静态数据视频网页项目"><a href="#静态数据视频网页项目" class="headerlink" title="静态数据视频网页项目"></a><a href="https://ssyatelandisi.github.io/videos" target="_blank" rel="noopener">静态数据视频网页项目</a></h2></li></ul><h1 id="已发布教程"><a href="#已发布教程" class="headerlink" title="已发布教程"></a>已发布教程</h1><p><a href="https://wenku.baidu.com/view/ad9da614e2bd960590c677ae" target="_blank" rel="noopener">WindowsPE清本地账户密码的方法-<em>百度文库</em></a></p><p><a href="https://www.landiannews.com/archives/3523.html" target="_blank" rel="noopener">电脑开机密码忘记怎么办 PE的安装使用及清除密码等详细图文教程-<em>蓝点网收录</em></a></p><p><a href="https://wenku.baidu.com/view/6d6dfc466edb6f1aff001fb6" target="_blank" rel="noopener">Windows8.1的BitLocker磁盘、U盘加密-<em>百度文库</em></a></p><p><a href="https://www.landiannews.com/archives/5853.html" target="_blank" rel="noopener">给硬盘设一道密码：利用BitLocker加密硬盘重要文件-<em>蓝点网收录</em></a></p><p><a href="http://tieba.baidu.com/p/5618671542" target="_blank" rel="noopener">通过修改DNS解决校园网网页无法解析</a></p><h1 id="游戏相关"><a href="#游戏相关" class="headerlink" title="游戏相关"></a>游戏相关</h1><ul><li><h2 id="Age-of-Empires-III-帝国时代3"><a href="#Age-of-Empires-III-帝国时代3" class="headerlink" title="Age of Empires III/帝国时代3"></a>Age of Empires III/帝国时代3</h2><p><a href="https://tieba.baidu.com/p/3254869177" target="_blank" rel="noopener">【自制MOD】帝国时代3之亚特兰蒂斯MOD1.2</a></p><p><a href="https://ssyatelandisi.github.io/AgeofEmpires3_MOD" target="_blank" rel="noopener"><strong>github下载页面</strong></a></p></li><li><h2 id="Astroneer-异星探险家"><a href="#Astroneer-异星探险家" class="headerlink" title="Astroneer/异星探险家"></a>Astroneer/异星探险家</h2><p><a href="https://tieba.baidu.com/p/5609374532" target="_blank" rel="noopener">异星探险家0.6.5字节修改器</a></p><blockquote><p>原贴 <em>9、10楼</em> 有下载地址和演示图片</p></blockquote></li><li><p>CE打包代码</p><pre><code>--astroneer修改START--function CEButton1Click(sender)control_setEnabled(CETrainer_CEEdit1,true)local Subpolishing1address=addresslist_getMemoryRecordByDescription(getAddressList(),&quot;show&quot;)local Subpolishing2address=addresslist_getMemoryRecordByDescription(getAddressList(),&quot;value&quot;)memoryrecord_setValue(Subpolishing1address, control_getCaption(CETrainer_CEEdit1))memoryrecord_setValue(Subpolishing2address, control_getCaption(CETrainer_CEEdit1))endfunction CEEdit1Click(sender)control_setEnabled(CETrainer_CEEdit1,true)end--astroneer修改END--</code></pre></li><li><h2 id="Euro-Truck-Simulator-2-欧洲卡车模拟2"><a href="#Euro-Truck-Simulator-2-欧洲卡车模拟2" class="headerlink" title="Euro Truck Simulator 2/欧洲卡车模拟2"></a>Euro Truck Simulator 2/欧洲卡车模拟2</h2></li></ul><table><thead><tr><th>名称</th><th>CE修改器地址</th></tr></thead><tbody><tr><td>金钱</td><td>“eurotrucks2.exe”+0126BB78+30+30</td></tr><tr><td>经验</td><td>“eurotrucks2.exe”+126BB78+18fc</td></tr></tbody></table><ul><li><h2 id="Ultraman-Fighting-Evolution-3-奥特曼格斗进化3"><a href="#Ultraman-Fighting-Evolution-3-奥特曼格斗进化3" class="headerlink" title="Ultraman Fighting Evolution 3/奥特曼格斗进化3"></a>Ultraman Fighting Evolution 3/奥特曼格斗进化3</h2></li></ul><table><thead><tr><th>地图名称</th><th>CE修改器值</th></tr></thead><tbody><tr><td>ニュータウン地区</td><td>0</td></tr><tr><td>大阪城</td><td>1</td></tr><tr><td>昼闇の丘</td><td>2</td></tr><tr><td>神戸港</td><td>3</td></tr><tr><td>夜の街</td><td>4</td></tr><tr><td>夕焼けの丘</td><td>5</td></tr><tr><td>昼の丘</td><td>6</td></tr><tr><td>工業地帯</td><td>7</td></tr><tr><td>水没都市</td><td>8</td></tr><tr><td>科特隊基地</td><td>9</td></tr><tr><td>火星</td><td>10</td></tr><tr><td>海王星</td><td>11</td></tr><tr><td>天王星</td><td>12</td></tr><tr><td>土星</td><td>13</td></tr><tr><td>木星</td><td>14</td></tr><tr><td>ゴルゴダ</td><td>15</td></tr><tr><td>雨の街</td><td>16</td></tr><tr><td>夕焼けの街</td><td>17</td></tr><tr><td>ルルイエ</td><td>18</td></tr><tr><td>霧門岳</td><td>19</td></tr><tr><td>南極</td><td>20</td></tr><tr><td>怪獣島</td><td>21</td></tr><tr><td>SRC宇宙センター</td><td>22</td></tr></tbody></table><h1 id="Github项目"><a href="#Github项目" class="headerlink" title="Github项目"></a>Github项目</h1><ul><li><h2 id="Header-Editor定向"><a href="#Header-Editor定向" class="headerlink" title="Header Editor定向"></a><a href="https://ssyatelandisi.github.io/headereditor" target="_blank" rel="noopener">Header Editor定向</a></h2></li><li><h2 id="hosts"><a href="#hosts" class="headerlink" title="hosts"></a><a href="https://ssyatelandisi.github.io/hosts" target="_blank" rel="noopener">hosts</a></h2></li></ul><!-- rebuild by neat -->]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 游戏 </tag>
+            
+            <tag> 英语 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2018/0531/cjpumpen70002i0ekd104s3pe/"/>
+      <url>/2018/0531/cjpumpen70002i0ekd104s3pe/</url>
+      
+        <content type="html"><![CDATA[<!-- build time:Wed Dec 19 2018 11:39:58 GMT+0800 (GMT+08:00) --><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><!-- rebuild by neat -->]]></content>
+      
+      
+      
+    </entry>
+    
+  
+  
+</search>
